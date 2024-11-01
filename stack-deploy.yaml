@@ -1,0 +1,5 @@
+template-file-path: ./ec2-instance.yaml
+tags:
+  Name: 'demoEC2'
+  Project: SimpleEC2CFDemo
+  
